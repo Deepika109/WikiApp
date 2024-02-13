@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width:50%;
+    border: 1px solid black;
+    margin-left: 400px;
+}
+header{
+    background-color: skyblue;
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding:10px;
+}
+
+nav{
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+nav span{
+    margin-left: 10px;
+}
+
+nav span:first-child{
+    border-bottom: 2px solid black;
+    cursor: pointer;
+
+}
+.one{
+    float: right;
+    margin:15px;
+}
+
+.two{
+    padding: 20px;
+
+}
+.two p{
+    margin-bottom: 20px;
+}
+
+
+
